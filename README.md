@@ -24,7 +24,7 @@ Here are a few technologies 🔭 I’m currently working on with recently:
   - Express
   - WebSockets
   - SQL/NOSQL
-  - Mongo/MySQL
+  - Mongo/MySQL/PostgreSQL
   - PHP
   - SLIM PHP
   - RESTful API(s)
