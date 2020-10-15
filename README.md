@@ -2,7 +2,7 @@
 
 I'm Aitsam, a software engineer based in Islamabad, Web Developer with 3 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies using modern backends.
 
-Graduated from [Virtual University of Pakistan](https://www.vu.edu.pk/) in Software Engineering, I am also working as a full stack engineer at [iDevelopStudio](https://www.idevelopstudio.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Graduated from [Virtual University of Pakistan](https://www.vu.edu.pk/) in Software Engineering, I am also working as a full stack engineer at [iDevelopStudio](https://www.idevelopstudio.com/) & Front end Engineering at [CreativeKhan](https://creativekhan.com), where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 ### Connect with me:
 
