@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aitsam, a software engineer based in Islamabad, Web Developer with 4 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies using modern backends.
+I'm Aitsam, a software engineer based in Islamabad, Web Developer with 4 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies using modern frontends & backends.
 
 Graduated from [Virtual University of Pakistan](https://www.vu.edu.pk/) in Software Engineering, I am also working as a Senior Software Engineer (SSE) at [TEO International](https://teo-intl.com), where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
@@ -31,6 +31,8 @@ Here are a few technologies 🔭 I’m currently working on with recently:
   - GraphQL
   - TypeScript
   - Redux
+  - RxJS
+  - NextJS
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
